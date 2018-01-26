@@ -1,7 +1,7 @@
 ---
 title: "MICB425 portfolio"
 author: "Jawairia Atif"
-data: 2018-01-19""
+date: 2018-01-19
 output: html_document
 ---
 
