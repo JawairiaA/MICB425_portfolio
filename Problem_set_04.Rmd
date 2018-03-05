@@ -279,7 +279,7 @@ For your sample:
 * What are the chao1 estimates for your sample and community using the R function?
   community:52
   my sample:33
-    + Verify that these values match your previous calculations: the Simpson Reciprocal Indices are exactly the same, but and the chao1 estimates are relatiely close.
+    + Verify that these values match your previous calculations: the Simpson Reciprocal Indices are exactly the same, and the chao1 estimates are relatively close.
 
 #### Part 5: Concluding activity
 
