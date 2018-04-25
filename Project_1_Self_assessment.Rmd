@@ -1,0 +1,57 @@
+---
+title: "Project 1 self-assessment of contributions"
+subtitle: "2018 Term 2 - MICB425"
+output: html_document
+---
+To facilitate group assessment, please indicate your contributions to the following aspects of your final group reports. You should provide short statements under the headers relevant to your work. For example, you could specify that you "wrote the first draft", "wrote the code to accomplish X figure or result", "troubleshot code", "interpreted results", etc.
+
+Include **separate** completed versions of this document for Project 1 **and** Project 2 in your portfolio repo; they do not need to be incorporated into the final knit portfolio html.
+
+## Abstract
+### Writing
+None
+
+### Editing
+None
+
+## Introduction
+### Literature research
+none
+
+### Writing
+none
+
+### Editing
+references integrated and editing.
+
+## Methods
+### Writing
+Wrote all of the material for the methodology in R and the statistical analysis
+
+### Editing
+Integrated all of the code chuns into the R markdown
+
+## Results
+
+### Anaysis 
+All the coding was done by me for mothur and my code was used as a template for qiime2
+
+### Figures
+All made by me
+
+### Writing
+Did the first 2 questions
+
+### Editing
+Did most of the editing for the writing and and figures.
+
+## Discussion
+
+### Literature research
+none
+
+### Writing
+none
+
+### Editing
+Integrated all parts into Rmarkdown and set of all the figure parameters.
