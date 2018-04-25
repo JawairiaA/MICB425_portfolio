@@ -654,37 +654,6 @@ It was easy to understand and the figures were easy to follow and really helped 
 ### Module 1 essay
 
 
-"Microbial life can easily live without us; we, however, cannot survive without the global
-catalysis and environmental transformations it provides."  
-
-Ever since the emergence of humans, we have been interacting with microbes. We live in symbiosis with microbes in many different aspects, which rises the important question whether we could survive without them. Microbial life emerged about 4 billion years (1) before the first humans developed, which prooves that microbes can easily live without us. In contrast, confirming that humans cannot survive without the global catalysis provided by microbes, is much more challenging. Several aspects need to be considered in order to answer the question whether humans rely on the presence of microbes. Firstly, after their emergence, the microbes rapidly spread all over the earth and rose to incredible numbers of individuals. Secondly, fast reproduction and constant turnover of the cells leads to massive requirements of nutrients and thereby promotes the global turnover of these nutrients. The fast reproduction of microbes further generates an enormous genetic diversity through mutations, which allows the microbes to constantly adapt present pathways or even generate new metabolic processes. Through this extremely high abundance and diversity, microbes developed a massive potential not only to actively participate in, but also to significantly alter important biogeochemical cycles, which can be shown by several examples covered in this assay. Lastly, this potential for global catalysis leads to important, microbially driven environmental transformations on Earth, creating an atmosphere inhabitable by humans. This not only allowed for the emergence of more complex organisms and the human species, but will also be important for human survival in the future.
-
-Microbes have a massive potential to impact global cycles because of their sheer number of cells present. They account for by far the biggest part of the number of organisms alive on earth and arguably also the greatest part of nutrients stored in living beings. The number of prokaryotes living on earth could be obtained by cell counts of probes sampled from several different habitats. Subsequent projection and extrapolation for habitats not available for sampling led to an estimation of 4-6*1030 cells present (2). Considering average values of nutrient contents per cell, leads to the conclusion that microbes totally contain 60-100% of the amount of carbon stored in plants. The fraction of nitrogen and phosphorus stored in microbes is even higher, with about ten times more of these elements stored in microbes than in plants (2). These numbers show, that through their enormous abundance and capacity, microbes technically have the potential to provide important global catalysis.  
-     
-In addition to the huge number of microbial cells, their fast turnover rates generate an even higher potential of the microbes to significantly catalyze and transform global cycles. An average turnover rate of 22 turnovers per year leads to about 8.2*1029 heterotrophic cells produced every year, just in the upper 200 meters of the ocean (2). Therefore, the vast amounts of cells continuously being produced further explains their impact on global cycles as their constant metabolism leads to massive requirements and turnover of nutrients. The constant turnover of prokaryotes additionally offers the opportunity to generate an enormous genetic diversity through billions of mutation events (2). The large genetic variation leading to continuous adaptation through evolution enables the bacteria to constantly generate new metabolic pathways and cycles. In summary, the fast microbial reproduction accounts for high nutrient requirement, global circulation of these nutrients and generation of metabolic diversity through evolving cells. This supports the conclusion, that microbes have the potential to significantly transform the environment and even catalyze global cycles in such a powerful way that humans become dependent on their presence on Earth.  
-     
-The enormous abundance, turnover and diversity provides a huge potential for the microbes to actively contribute to the composition of Earth's properties. These contributions thereby are of such importance that humans would not be able to survive without microbes providing them, which can be shown by several examples. Firstly, marine microorganisms are responsible for the generation of nearly all of the oxygen present in the atmosphere (3). The oxygen produced by plants only contributes to a small fraction of atmospheric oxygen because most of the O2 produced by plants is used up again by their own respiratory processes and upon decay of dead plant material (3). Therefore, the oxygen produced by microbes is substantial for human respiration and hence, also existence. Second, Earth's redox state depends mostly on microbial life and therefore is an emergent property of their existence (4). This means, the global fluxes of some of the most important elements (H, C, N, O, S) are controlled in large parts by redox reactions which are catalyzed by prokaryotes. Thus, microbial photosynthesis not only provides humans with breathable air, but also drives the Earth's oxidation in general, and finally, supplies heterotrophic organisms with reduced carbon. Further, not only photosynthesis, but many other microbial processes contribute to important global nutrient cycles. One example for a cycle largely controlled by microbes is the nitrogen cycle (4). Microbes catalyze all the steps present in the global nitrogen cycle and thereby control the oxidation state in which the nitrogen species are present in Earth's atmosphere, soil and oceans. Many other prokaryotes and eukaryotes, that cannot process atmospheric nitrogen, rely on the supply of these nitrogen species provided by nitrogen-fixing microbes. Also humans rely on fixed nitrogen, which initially is provided by microbes and wanders through the food chain until eventually taken up as part of the human nourishment. All of these examples show, that the global nutrient cycles, which are in large parts controlled by microbes, are of such importance, that human existence relies on their catalysis provided by microbes.  
-     
-The potential of microbes to catalyze global processes does not only affect nutrient cycles, but also the global environment and climate. Microorganisms can significantly change the climate by altering the atmospheric composition (1, 3, 4). The production of several gases like methane and nitrous oxide strongly influences the global climate through the greenhouse effect (1, 3). The great importance of this effect for the survival of organisms can be shown not only for present days, but also for early stages in time. In the distant past, about 3.5 billion of years ago, microbial methane production might have contributed to a global shield, warming up the planet (1). At this time, the sun was much weaker than today and therefore, without a greenhouse gas like methane, Earth would have been completely frozen over. By keeping the earth from freezing, this methane shield might have allowed for fast reproduction, leading to evolution and the emergence of more complex life-forms. About 500 million years later, microbes again significantly transformed the environment. The emergence of photosynthetic cyanobacteria led to a strong increase of the oxygen level in the atmosphere (1). This resulted in decreased viability of methanogenic organisms and therefore decreased methane concentrations, which in turn reduced the greenhouse effect. The consequence was a global glaciation, again significantly changing the composition of organisms capable of living on Earth (1). In summary, in the absence of microbes, the global environment with its properties as present now, could not have been created. In a world depleted of the global catalysis provided by microbes, Earth's environment would have been very unfavorable for the emergence of complex life forms as they are present today. As the past times show, a stable environment, which can be provided and maintained by microbes, will also be necessary for humans to live in future times. If humans wanted to survive without microbes, they would have to artificially control all the cycles currently run by microbes. This, however, is most likely not possible. Humans will not be able to replace all the microbially driven cycles in an efficient way. We are not able to generate machines catalyzing processes as efficient as microbes do after millions of years of evolution. Further, as microbial diversity is unimaginably high, the range of the processes they catalyze can always adapt quickly to changing conditions. Humans will not be able to adapt their engineered machines fast enough in order to provide sufficient flexibility to changing demands.
-     
-In summary, the enormous number of prokaryotic cells present, their fast turnover and the high genetic diversity offer an unimaginable potential for the microbes to significantly contribute to the presence and properties of biogeochemical cycles. Microbes provide a global environment-composition which allowed for the emergence of humans and will also in the future be necessary for our persistence. From the beginning of our existence, we have been living in symbiosis with microbes. We do not only interact with microbes living in and on our bodies, but also with the global biogeochemical cycles they are a significant part of. Artificially replacing all of the processes provided by microbes will not be possible in a sufficient way. Therefore, existence of human life without the presence of microbes is most likely not possible as our survival strongly depends on stable global cycles, kept intact by microbes. Microbes have been the guardians of global metabolism for billions of years (5). It is very unlikely that humans could further exist without microbes present, continuously guarding global metabolic processes. A new question that arises is however, how likely it is, that the human race eventually manages to destroy this essential function of the microbes as guardians of global metabolism?  
-
-#### References  
-
-1. Nisbet, E. G., and N. H. Sleep. 2001. 'The habitat and nature of early life', Nature, 409: 1083.
-
-2. Whitman, W. B., D. C. Coleman, and W. J. Wiebe. 1998. 'Prokaryotes: the unseen majority', Proc Natl Acad Sci U S A, 95: 6578-83.
-
-3. Kasting, J. F., and J. L. Siefert. 2002. 'Life and the evolution of Earth's atmosphere', Science, 296: 1066-8.
-
-4. Falkowski, P. G., T. Fenchel, and E. F. Delong. 2008. 'The microbial engines that drive Earth's biogeochemical cycles', Science, 320: 1034-9.  
-
-5. Waters, Colin N., Jan Zalasiewicz, Colin Summerhayes, Anthony D. Barnosky, Clément Poirier, Agnieszka Galuszka,  
-Alejandro Cearreta, Matt Edgeworth, Erle C. Ellis, Michael Ellis, Catherine Jeandel, Reinhold Leinfelder, J. R. McNeill, Daniel deB. Richter, Will Steffen, James Syvitski, Davor Vidas, Michael Wagreich, Mark Williams, An Zhisheng, Jacques Grinevald, Eric Odada, Naomi Oreskes, and Alexander P. Wolfe. 2016. 'The Anthropocene is functionally and stratigraphically distinct from the Holocene', Science, 351.  
-
-
-
-
 
 ### Module 01 references
 
@@ -878,22 +847,6 @@ long and tons of genetic jargon but overall easy to read.
 
 ### Module 2 References
 
-Wooley JC, Godzik A, Friedberg I (2010) A Primer on Metagenomics. PLoS Comput Biol 6(2): e1000667. https://doi.org/10.1371/journal.pcbi.1000667  
-[Wooley et al. 2010](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000667)  
-
-Madsen, E.L., Identifying microorganisms responsible for ecologically significant biogeochemical processes. Nature Reviews Microbiology, 2005. 3: p. 439.  
-[Madsen et al. 2005](https://www.ncbi.nlm.nih.gov/pubmed/15864265)  
-
-Pace, N.R., A molecular view of microbial diversity and the biosphere. Science, 1997. 276(5313): p. 734-40.  
-[Pace et al. 1997](https://www.ncbi.nlm.nih.gov/pubmed/9115194)  
-
-DeLong, E.F. and N.R. Pace, Environmental diversity of bacteria and archaea. Syst Biol, 2001. 50(4): p. 470-8  
-[DeLong et al. 2001](https://www.ncbi.nlm.nih.gov/pubmed/12116647)  
-
-Locey, K.J. and J.T. Lennon, Scaling laws predict global microbial diversity. Proceedings of the National Academy of Sciences, 2016. 113(21): p. 5970-5975  
-[Locey et al. 2016](http://www.pnas.org/content/113/21/5970)  
-
-Stre
 
 # Module 3
 
@@ -1209,82 +1162,49 @@ Sequencing methods that are error prone like the oxford nan-pore or sanger-seque
 [Welch et al. 2002]( http://www.pnas.org/content/99/26/17020)
 
 #### What were the main questions being asked?
+-How do the genomes of different E. coli differ (specifically 3 closely related strains)and how do these differences play a role in the pathogenicity of E. coli strains.
+-Comparing genome structures of E. coli to understand evolution of E. coli.
+  
 
--	How the genomes of different E. coli strains are composed.  
--	How the different genome compositions and structures can explain pathogenicity of different E. coli strains.    
--	How the genome structure can be used to understand to evolutionary history of E. coli.    
-- ->Find differences between the three very similar strains.
 
 #### What were the primary methodological approaches used?
 
--	Genome sequence of uropathogenic E. coli strain CFT073 compared to enterohemorrhagic strain EDL933 and nonpathogenic lab strain MG1655.    
--	CFT073 was isolated from a woman with acute pyelonephritis and subsequently sequenced by generating whole-genome libraries.    
--	The genome sequence was analyzed using MAGPIE. Homologs in EDL933 and MG1655 of the potential CFT073 genes were searched using BLAST. Orthology was assumed when matches reached a threshold of 90% identity with at least 90% of the genes covered in an alignment.    
+Genome sequence of:
+uropathogenic E. coli strain CFT073 (from a woman with acute pylonephritis) compared to
+enterohemorrhagic strain EDL933 and 
+nonpathogenic lab strain MG1655.    
+
+Genome sequences analyzed using MAGPIE, and homologs with the other 2 strains were searched for using BLAST: genes with 90% similarity were determined to be orthologues.
 
 #### Summarize the main results or findings. 
 
--	The CFT073 genome of 5.2 Mb was successfully sequenced.    
--	Several features of the genome could be identified:  
-    -	A restriction map was generated to confirm the circular structure of the genome.  
-    - The Origin and terminus of the CFT073 genome corresponds to those of the MG1655 strain  
-    - The genome contains no plasmids  
-    - 5.533 coding genes were detected  
-    - 247 CFT073-specific islands found with 2004 genes, 60 unique segments for virulence genes  
-        - The specific islands account for 1.303 Mb, whereas MG1655 contains only 716 kb that are specific for this strain.  
--	Codon usage of islands was found to be different from the backbone genes, which is an indicator of lateral gene transfer.  
-    - The backbone codon usage from CFT073 does not differ from the backbones of the other two strains. But the specific islands have different codon usage amongst the three strains.  
-    - A Mosaic genome structure is generated where newly acquired genes are grouped together.  
-    - CFT073 misses type III secretion system and plasmid encoded virulence genes, which explains differences in disease potential from EDL933.  
--	The CFT073 specific virulence genes contain fimbrial adhesins, autotransporters and phase switch recombinases.  
--	The chromosomal location and order of the pathogenicity genes differ from other uropathogenic strains.  
--	One CFT073 island contains part of a pathogenicity island from Yersinia pestis, suggesting the introduction of this island in the early evolution of extra intestinal E. coli.  
--	Many CFT073 islands are needed for the ability to colonyze the urinary tract:  
-    - Fimbriae, pili for attachment to host cells.  
-    - Phase switch recombinases that control the expression of fimbriae encoded on the fim operon.  
-    - Autotransporters that export virulence factors  
-    - Hemolysin genes that encode cytolytic toxins and their secretion system.  
--	Numbers of proteins shared between CFT073, DEL933 and MG1655: 2996 (39.2%)   
--	Numbers of proteins shared between CFT073 and DEL933: 204 (2.6%)  
--	Numbers of proteins shared between CFT073 and MG1655: 193 (2.5%)    
--	Numbers of proteins shared between DEL933 and MG1655: 514 (6.7%)    
--	Proteins specific for CFT073: 1623 (21.2%)   
--	Proteins specific for EDL933: 1346 (17.6%)    
--	Proteins specific for MG1655: 585 (7.6%)    
+-	The CFT073 genome sequenced and a restriction enzyme map was generated. The genome had no plasmids and had roughly 5500 coding genes. CTF073 has more pathogenicity islands and virulence gens than MG6155 (1.303 Mb!! vs 716 kb). The ori and terminuts of replication between the two strains was identical. In CFT073: the codons used in the pathogenicity island differed from the rest of the gene: indication of horizontal gene transer. 
 
-Conclusion:  
-
--	E. coli genomes show a mosaic structure with conserved backbones and strand specific islands.  
--	Uropathogenic stains show bigger genetic differences to other strains than previously assumed.  
--	Uropathogenic or intestinal pathogenic strains acquired specific pathogenicity islands witch made them able to colonyze the host's organs.  
--	Each strain contains different specific islands with strong variation in their linkage and chromosomal arrangement, which gives the strains their characteristic traits.  
-
+CFT07 has no plasmids and type 3 secretion system while EDL933 does: can give insight into how the pathogenicity of these 2 strains differs. CFT07 genome has fimbial adhesins, recombinases, autotransporters for exporting virulence factors, hemolysi genes that encode cytolytic toxins and contains a pathogenicity island from Yersinia pestis.
+roughly 40% of all proteins were shared between all 3 strains and CFT07 had 20% of its genome being exclusive to itself. the rest of the genome was shared between only 2 of the 3 strains.
+Pathogeneic strains definitely more genetially diverse than lab strains because of genes that they pick up from the environment during their foray into the harsh and selective environment of the intestine or urinary regions.
+ The location of the plasmids or pathogenicity islands in the genome of these strains helps define which strain they are.
 
 #### Do new questions arise from the results?
 
--	The results suggest that extraintestinal strains might be as diverse as the intestinal strains. This remains to be verified.  
--	Whether specific gene subsets can be found that can be used to differentiate between uropathogenic strains.  
--	Whether new genetic regions can be found that are subject to variation due to recombinase activities.  
--	Whether "black holes" can be found in CFT073: Deletions of genes that would lead to disadvantages in the specific lifestyle of uropathogens.  
--	The presence of huge amounts of specific islands raises the question, whether species definitions based on only a few phenotypic traits and low-resolution mapping should be reconsidered  
+What gene subsets differentiate E. coli that have tissue tropism for different cell types in the himan body?
+
+Does the high sequence similarity critieria become obsolete when talking about assigning taxonomy to species with increasing amounts of horizontal gene transfer as these strains have very different functional capacities from each other?
+
 
 #### Were there any specific challenges or advantages in understanding the paper (e.g. did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)? 
 
-
-In general, the paper was simple to follow, with reasonable assumptions and conclusions.
-However, the methods how they analyzed and compared the genomes were not explained very detailed. More detailed description of their methods would have been helpful for better understanding of the obtained results.
+The method section was not very detailed but in general the paper was okay. 
 
 #### Based on your reading and discussion notes, explain the meaning and content of the following figure derived from the comparative genomic analysis of three E. coli genomes by Welch et al. Remember that CFT073 is a uropathogenic strain and that EDL933 is an enterohemorrhagic strain. Explain how this study relates to your understanding of ecotype diversity. Provide a definition of ecotype in the context of the human body. Explain why certain subsets of genes in CFT073 provide adaptive traits under your ecological model and speculate on their mode of vertical descent or gene transfer.
 
 ![](c:/Users/Jawairia/Documents/MICB425_portfolio/Evidence_worksheet5_image.jpg)
 
 
-An Ecotype is a bacterial species that occupies a specific ecological niche. Different ecotypes can live in the same habitat but do not compete for the same nutrients/ environmental factors and therefore obtain different niches, which allows them to evolve independently from each other. In the human body for example, several different bacteria can live in the gut but rely on different carbon sources/ factors and therefore are different ecotypes. They can also have differences in their exact localization within the gut, eg in the microvilli/ gut lumen/ cryptae.. Different ecotypes can have very identical 16s RNA sequences but differ significantly in genetic islands specific for the niche they occupy.
+An ectotype is a bacterial strain that is well adapted to a specific ecological niche and is unlikely to be found elsewhere. In other words, it is a genetically distinct geographic variety of organism within a species.In the human body, these geographic locations can be different physical locations like the small intestine, the inguinal region or the urinary tract. Bacteria in these diffrent locations face different selective pressures based on the environmal conditions that are present. Even on a microscopic level, for example, in the gut, bacteria in the center of the intestinal lumen and those closely associated with the microvilli face different pressures. These different ecotypes all share 16s SSU rRNA sequences but must be able to survive different environments and are thus differentially transcriptically active. As a result, different ecotypes can differ significantly in the genetic islands specific for the niche that they occupy.
 
-The figure shows that the different strains have different genetic islands in their genomes. The differences in the islands can be explained by the different niches/ habitats within the human that these two strains occupy. The colonization of the urinary tract requires some different genes than the colonization of the gut. Different genes are needed to colonize the urethra and to metabolize the present nutrients than to colonize and live in the gut. 
-The figure also shows that the specific islands are localized on a shared backbone of the different strains.  
+The figure depicts the different genetic islands in the genomes of the two human pathogenic strains of E. coli. These islands were likely selected for by the different environments and nutrients these bacteria encounter. The backbone of the genome is shared between the two E. coli strains. The backbone genes are likely transfered vertically from parent to progeny but the differential presence of the genetic islands is due to horizontal gene transfer. This leads me to believe that horizontal gene transfer is most likely the key process behind the evolution of ecotypes.
 
-
-The genes that are specific for a distinct niche are mainly inherited vertically to conserve the separation of the different ecotypes. The vertical inheritance of the specific genes (gene islands) conserves the ability of the strains to colonize their specific habitats. If horizontal gene transfer occurs between cells from different ecotypes, a switch in the ecotype of the recipient cell occur, leading to the occupation of a new niche for this ecotype.
 
 ### Module 3 essay
 
@@ -1327,28 +1247,4 @@ In conclusion, the definition of microbial species encounters many challenges. S
 
 
 ### Module 3 References
-
-Welch, R.A., et al., Extensive mosaic structure revealed by the complete genome sequence of uropathogenic <em>Escherichia coli</em>. Proceedings of the National Academy of Sciences, 2002. 99(26): p. 17020-17024.  
-[Welch et al. 2002]( http://www.pnas.org/content/99/26/17020)  
-
-Callahan, B.J., P.J. McMurdie, and S.P. Holmes, Exact sequence variants should replace operational taxonomic units in marker-gene data analysis. ISME J, 2017. 11(12): p. 2639-2643.  
-[Callahan et al. 2017](https://www.ncbi.nlm.nih.gov/pubmed/28731476)  
-
-Gaudet, A.D., et al., Small-Group Learning in an Upper-Level University Biology Class Enhances Academic Performance and Student Attitudes Toward Group Work. PLOS ONE, 2011. 5(12): p. e15821.  
-[Gaudet et al. 2010](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0015821)  
-
-Hallam, S.J., M. Torres-Beltran, and A.K. Hawley, Monitoring microbial responses to ocean deoxygenation in a model oxygen minimum zone. Sci Data, 2017. 4: p. 170158  
-[Hallam et al. 2017](https://www.ncbi.nlm.nih.gov/pubmed/29087370)  
-
-Hawley, A.K., et al., A compendium of multi-omic sequence information from the Saanich Inlet water column. Sci Data, 2017. 4: p. 170160  
-[Hawley et al. 2017](https://www.ncbi.nlm.nih.gov/pubmed/29087368)  
-
-Kunin, V., et al., Wrinkles in the rare biosphere: pyrosequencing errors can lead to artificial inflation of diversity estimates. Environ Microbiol, 2010. 12(1): p. 118-23  
-[Kunin et al. 2010](https://www.ncbi.nlm.nih.gov/pubmed/19725865)  
-
-Sogin, M.L., et al., Microbial diversity in the deep sea and the underexplored "rare biosphere". Proceedings of the National Academy of Sciences, 2006. 103(32): p. 12115-12120  
-[Sogin et al. 2006](http://www.pnas.org/content/103/32/12115)  
-
-Torres-Beltrán, M., et al., A compendium of geochemical information from the Saanich Inlet water column. Scientific Data, 2017. 4: p. 170159.
-[Torres_Beltràn et al. 2017](https://www.nature.com/articles/sdata2017159)  
 
