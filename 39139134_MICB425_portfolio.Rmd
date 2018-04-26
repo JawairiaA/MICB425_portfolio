@@ -746,7 +746,7 @@ Pre-reading:
 [Solden *et al.* 2016](https://www.sciencedirect.com/science/article/pii/S1369527416300558): 89 bacterial phyla and 20 archaeal phyla (classified using SSU rRNA)
 [Shloss et al 2004](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC539005/): 52 bacterial phyla: 26 of them uncultured
 [Pace et al. 1997](https://www.ncbi.nlm.nih.gov/pubmed/9115194) : 40 bacterial divisions and 12 archael divsions
-[Locey et al. 2016](http://www.pnas.org/content/113/21/5970): estimation using ecological scaling laws: 10^12^ bacterial species ont eh plannet
+[Locey et al. 2016](http://www.pnas.org/content/113/21/5970): estimation using ecological scaling laws: 10^12^ bacterial species on the plannet
 [Streit et al 2004](https://www.ncbi.nlm.nih.gov/pubmed/15451504) : estimated 99.8% bacteria on earth unculturable. 
 
 
@@ -873,7 +873,24 @@ Martinez A, Bradley AS, Waldbauer JR, Summons RE, DeLong EF. 2007. Proteorhodops
 
 	Wooley JC, Godzik A, Friedberg I. 2010. A primer on metagenomics. PLoS Comput Biol. [Wooley et al. 2010](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000667)
 	
-	
+Barker D, Pagel M. 2005. Predicting Functional Gene Links from Phylogenetic-Statistical Analyses of Whole Genomes. PLoS Comput Biol 1:e3. 
+[Barker et al. 2005](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0010003)
+
+Dudhagara P, Bhavsar S, Bhagat C, Ghelani A, Bhatt S, Patel R. 2015. Web Resources for Metagenomics Studies. Genomics Proteomics Bioinformatics 13:296-303.
+ [Dudhagara et. al, 2015](](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4678780/)
+ 
+Solden L, Lloyd K, Wrighton K. 2016. The bright side of microbial dark matter: lessons learned from the uncultivated majority. Curr Opin Microbiol 31:217-226.
+ [Solden *et al.* 2016](https://www.sciencedirect.com/science/article/pii/S1369527416300558)
+ 
+Schloss PD, Handelsman J. 2004. Status of the microbial census. Microbiol Mol Biol Rev 68:686-91. [Schloss et al 2004](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC539005)
+
+Pace NR. 1997. A molecular view of microbial diversity and the biosphere. Science 276:734-40.
+[Pace et al. 1997](https://www.ncbi.nlm.nih.gov/pubmed/9115194) 
+
+Locey KJ, Lennon JT. 2016. Scaling laws predict global microbial diversity. Proc Natl Acad Sci U S A 113:5970-5.
+[Locey et al. 2016](http://www.pnas.org/content/113/21/5970) 
+Streit WR, Schmitz RA. 2004. Metagenomics - the key to the uncultured microbes. Curr Opin Microbiol 7:492-498.  [Streit et al 2004](https://www.ncbi.nlm.nih.gov/pubmed/15451504) 
+
 
 
 # Module 3
