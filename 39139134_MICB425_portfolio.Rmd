@@ -748,7 +748,7 @@ Pre-reading:
 [Pace et al. 1997](https://www.ncbi.nlm.nih.gov/pubmed/9115194) : 40 bacterial divisions and 12 archael divsions
 [Locey et al. 2016](http://www.pnas.org/content/113/21/5970): estimation using ecological scaling laws: 10^12^ bacterial species ont eh plannet
 [Streit et al 2004](https://www.ncbi.nlm.nih.gov/pubmed/15451504) : estimated 99.8% bacteria on earth unculturable. 
-Up to 99.8% of microbial species are not culturable (4).
+
 
 #### How many metagenome sequencing projects are currently available in the public domain
 and what types of environments are they sourced from?
@@ -833,7 +833,8 @@ Source: Wooley et al, 2010
 \pagebreak
 
 ### Evidence worksheet 04
-Reading:
+
+Reading: [Martinez et al. 2007](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1838496/)
 
 #### What were the main questions being asked?  
 
@@ -865,7 +866,14 @@ long and tons of genetic jargon but overall easy to read.
 
 ### Module 2 References
 
+Martinez A, Bradley AS, Waldbauer JR, Summons RE, DeLong EF. 2007. Proteorhodopsin photosystem gene expression enables photophosphorylation in a heterologous host. Proc Natl Acad Sci 104:5590-5595.
 [Martinez et al. 2007](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1838496/)
+ Madsen EL. 2005. Identifying microorganisms responsible for ecologically significant biogeochemical processes. Nat Rev Microbiol 3:439-446.
+[Madsen et al. 2005](https://www.ncbi.nlm.nih.gov/pubmed/15864265)
+
+	Wooley JC, Godzik A, Friedberg I. 2010. A primer on metagenomics. PLoS Comput Biol. [Wooley et al. 2010](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000667)
+	
+	
 
 
 # Module 3
@@ -1179,6 +1187,7 @@ Sequencing methods that are error prone like the oxford nan-pore or sanger-seque
 
 ### Evidence Worksheet 05: Extensive mosaic structure
 
+reading
 [Welch et al. 2002]( http://www.pnas.org/content/99/26/17020)
 
 #### What were the main questions being asked?
