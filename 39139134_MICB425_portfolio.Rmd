@@ -1245,7 +1245,7 @@ In conclusion, arriving at one specific criteria for defining microbial species 
 3. 	Callahan BJ, McMurdie PJ, Holmes SP. 2017. Exact sequence variants should replace operational taxonomic units in marker-gene data analysis. ISME J 11:2639-2643.
 4. 	Edgar RC. 2018. Updating the 97% identity threshold for 16S ribosomal RNA OTUs. Bioinformatics.
 5. 	Wooley JC, Godzik A, Friedberg I. 2010. A primer on metagenomics. PLoS Comput Biol.
-6. 	Falkowski PG, Fenchel T, Delong EF. 2008. The Microbial Engines That Drive Earth's Biogeochemical Cycles. Science (80- ) 320:1034-1039. [Falkowski et al. 2008](https://www.ncbi.nlm.nih.gov/pubmed/18497287)
+6. 	Falkowski PG, Fenchel T, Delong EF. 2008. The Microbial Engines That Drive Earth's Biogeochemical Cycles. Science (80- ) 320:1034-1039.
 7. 	Welch RA, Burland V, Plunkett G, Redford P, Roesch P, Rasko D, Buckles EL, Liou S-R, Boutin A, Hackett J, Stroud D, Mayhew GF, Rose DJ, Zhou S, Schwartz DC, Perna NT, Mobley HLT, Donnenberg MS, Blattner FR. 2002. Extensive mosaic structure revealed by the complete genome sequence of uropathogenic Escherichia coli. Proc Natl Acad Sci U S A 99:17020-4.
 8. 	Pozzi AC, Bautista-Guerrero HH, Abby SS, Herrera-Belaroussi A, Abrouk D, Normand P, Menu F, Fernandez MP. 2018. Robust Frankia phylogeny, species delineation and intraspecies diversity based on Multi-Locus Sequence Analysis (MLSA) and Single-Locus Strain Typing (SLST) adapted to a large sample size. Syst Appl Microbiol.
 9. 	Fraser C, Alm EJ, Polz MF, Spratt BG, Hanage WP. 2009. The bacterial species challenge: Making sense of genetic and ecological diversity. Science (80- ).
@@ -1259,18 +1259,22 @@ In conclusion, arriving at one specific criteria for defining microbial species 
 ### Module 3 References
 
 1. 	Staley JT. 2006. The bacterial species dilemma and the genomic-phylogenetic species concept. Philos Trans R Soc B Biol Sci 361:1899-1909. 
+[Staley et al. 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1857736/)
 2. 	Konstantinidis KT, Ramette A, Tiedje JM. 2006. The bacterial species definition in the genomic era. Philos Trans R Soc Lond B Biol Sci 361:1929-40.
+[Konstantinidis et al. 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1764935/)
 3. 	Callahan BJ, McMurdie PJ, Holmes SP. 2017. Exact sequence variants should replace operational taxonomic units in marker-gene data analysis. ISME J 11:2639-2643.
+[Callahan et al. 2017](https://www.ncbi.nlm.nih.gov/pubmed/28731476)
 4. 	Edgar RC. 2018. Updating the 97% identity threshold for 16S ribosomal RNA OTUs. Bioinformatics.
+[Edgar et al. 2018](https://www.ncbi.nlm.nih.gov/pubmed/29506021)
 5. 	Wooley JC, Godzik A, Friedberg I. 2010. A primer on metagenomics. PLoS Comput Biol. [Wooley et al. 2010](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000667)
 6. 	Falkowski PG, Fenchel T, Delong EF. 2008. The Microbial Engines That Drive Earth's Biogeochemical Cycles. Science (80- ) 320:1034-1039. [Falkowski et al. 2008](https://www.ncbi.nlm.nih.gov/pubmed/18497287)
 7. 	Welch RA, Burland V, Plunkett G, Redford P, Roesch P, Rasko D, Buckles EL, Liou S-R, Boutin A, Hackett J, Stroud D, Mayhew GF, Rose DJ, Zhou S, Schwartz DC, Perna NT, Mobley HLT, Donnenberg MS, Blattner FR. 2002. Extensive mosaic structure revealed by the complete genome sequence of uropathogenic Escherichia coli. Proc Natl Acad Sci U S A 99:17020-4.
+[welch et al. 2002](https://www.ncbi.nlm.nih.gov/pubmed/12471157)
 8. 	Pozzi AC, Bautista-Guerrero HH, Abby SS, Herrera-Belaroussi A, Abrouk D, Normand P, Menu F, Fernandez MP. 2018. Robust Frankia phylogeny, species delineation and intraspecies diversity based on Multi-Locus Sequence Analysis (MLSA) and Single-Locus Strain Typing (SLST) adapted to a large sample size. Syst Appl Microbiol.
 [Pozzi et. al 2018](https://www.sciencedirect.com/science/article/pii/S0723202018301139)
 9. 	Fraser C, Alm EJ, Polz MF, Spratt BG, Hanage WP. 2009. The bacterial species challenge: Making sense of genetic and ecological diversity. Science (80- ).
 [Fraser et al. 2009](https://www.ncbi.nlm.nih.gov/pubmed/19197054)
-
-
+10. Madsen EL. 2005. Identifying microorganisms responsible for ecologically significant biogeochemical processes. Nat Rev Microbiol 3:439-446.
 [Madsen et al. 2005](https://www.ncbi.nlm.nih.gov/pubmed/15864265)
 
 
